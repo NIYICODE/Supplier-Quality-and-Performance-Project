@@ -62,3 +62,59 @@ The first layer surfaced vendors with disproportionate downtime relative to defe
 
 ![Vendor Performance](pictures/VendorAnalysis.png)
 
+
+### **Understanding Cross-Plant Variability**
+
+Comparing supplier performance across plants revealed significant variance — showing that the same vendor could operate reliably in one facility but fail in another, indicating process, handling, or specification differences.
+
+![Plant Performance](pictures/PlantPerformance.png)
+
+
+### **Vendor–Material Systemic Underperformance**
+
+Analyzing vendor–material pairings uncovered combinations that consistently failed, enabling procurement to consider substitution, renegotiation, or vendor exit.
+
+![Material Performance](pictures/MaterialPerformance.png)
+
+
+### **Operational Consequence Mapping**
+
+Linking downtime to supplier decisions reframed quality issues as **cost and reliability risks**, not isolated operational incidents.
+
+![Downtime Impact](pictures/DowntimeImpact.png)
+
+## **Business Impact & Decision Levers**
+
+The analysis generates leverage across multiple business functions:
+
+| Functional Area | Decision Insight |
+|---|---|
+| **Procurement** | Which suppliers to renegotiate, retain, switch, or exit |
+| **Operations** | Where downtime risk concentrates & where mitigation yields impact |
+| **Quality** | Which material + vendor pairings require escalation |
+| **Finance** | Converts downtime into economic consequence |
+| **Strategy** | Enables data-backed vendor portfolio optimization |
+
+The core transformation: **subjective supplier opinions → objective supplier intelligence**.
+
+
+## **Key Takeaways**
+- Supplier quality can be measured, ranked, and benchmarked using performance metrics.
+- High-severity downtime is not always correlated with high defect volume.
+- Supplier performance varies across plants — a hidden inefficiency until quantified.
+- Vendor–material interactions reveal systemic failure patterns missed in averages.
+- A standardized analytical framework enables repeatable supplier evaluation.
+
+## **Visuals**
+<p>
+  <img src="pictures/Landing Page.png" width="300">
+  <img src="pictures/Overview.png" width="300">
+  <img src="pictures/VendorAnalysis.png" width="300">
+  <img src="pictures/PlantPerformance.png" width="300">
+  <img src="pictures/MaterialPerformance.png" width="300">
+  <img src="pictures/DowntimeImpact.png" width="300">
+</p>
+
+
+## **11. Summary**
+This project demonstrates how fragmented operational data can be converted into a procurement and risk decision tool using structured analytical methods. Beyond visualization, the work extracts insights that influence supplier negotiations, budget allocation, and operational reliability showing the role data plays in reducing downtime and improving manufacturing resilience.
