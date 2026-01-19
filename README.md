@@ -60,5 +60,5 @@ This reframed supplier evaluation as a **quantitative performance problem**, not
 
 The first layer surfaced vendors with disproportionate downtime relative to defect count — an early signal of systemic quality failures.
 
-![Vendor Performance](["C:/Users/DELL/Pictures/Screenshots/VendorAnalysis.png"](https://github.com/NIYICODE/Supplier-Quality-and-Performance-Project/blob/39ef8d64f0132482844caef5d334ab46b3343d24/pictures/VendorAnalysis.png))
+![Vendor Performance](pictures/VendorAnalysis.png)
 
